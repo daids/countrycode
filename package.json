@@ -1,0 +1,23 @@
+{
+  "name": "country-code",
+  "version": "1.0.0",
+  "description": "country code translate into chinese or english name",
+  "main": "countrycode.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daids/countrycode.git"
+  },
+  "keywords": [
+    "ISO3166",
+    "countrycode"
+  ],
+  "author": "daids <daids@mail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daids/countrycode/issues"
+  },
+  "homepage": "https://github.com/daids/countrycode#readme"
+}
